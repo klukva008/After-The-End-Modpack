@@ -1,0 +1,13 @@
+name = "DespawnTweaker Refoxed"
+filename = "despawntweaker-1.21.1-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0c5e59e1a6c35cb7c6cf330993077cb70591a2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6127819
+project-id = 1187660

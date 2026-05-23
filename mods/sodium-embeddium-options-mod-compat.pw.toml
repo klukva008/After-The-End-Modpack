@@ -1,0 +1,13 @@
+name = "Sodium/Embeddium Options Mod Compat"
+filename = "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a2716b169355edad7536b347390e362e949b06e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6929971
+project-id = 1146393

@@ -1,0 +1,12 @@
+name = "Fresh Animations"
+side = "client"
+filename = "FreshAnimations_v1.10.4.zip"
+
+[update.curseforge]
+file-id = 7670377
+project-id = 453763
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "73db740a6868e043c5e615c036fca2c912615b6e"
