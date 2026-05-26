@@ -17,7 +17,7 @@
   },
   "rendering": {
     "particleCulling": "SPHERE",
-    "particleRenderingMode": "COMPATIBILITY",
+    "particleRenderingMode": "DELAYED",
     "cullWeathers": true,
     "failPerSecLimit": 20,
     "failBehavior": "MARK_AS_SYNC"
@@ -27,7 +27,7 @@
     "fixParticleLights": true
   },
   "create": {
-    "rainEffect": "ALWAYS"
+    "rainEffect": "STATIONARY"
   },
   "cooParticlesAPI": {
     "tickMode": "ASYNC_IN_PARALLEL"

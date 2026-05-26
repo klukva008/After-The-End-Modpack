@@ -13,25 +13,13 @@
   "entityWhitelist": [
     "botania:mana_burst",
     "drg_flares:drg_flares",
-    "quark:soul_bead",
-    "mowziesmobs:pillar_sculptor",
-    "mowziesmobs:super_nova",
-    "mowziesmobs:ice_breath",
-    "mowziesmobs:ice_ball",
-    "mowziesmobs:boulder_platform",
-    "mowziesmobs:boulder_platform_crumbling",
-    "mowziesmobs:boulder_projectile",
-    "mowziesmobs:earth_spike",
-    "mowziesmobs:pillar",
-    "mowziesmobs:pillar_piece",
-    "mowziesmobs:pillar_sculptor"
+    "quark:soul_bead"
   ],
   "tracingDistance": 128,
   "debugMode": false,
   "sleepDelay": 10,
   "hitboxLimit": 50,
   "captureRate": 5,
-  "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
     "minecraft:block_display",
@@ -70,9 +58,12 @@
     "create:carriage_contraption",
     "minecraft:pale_oak_chest_boat",
     "minecraft:bamboo_chest_raft",
-    "minecraft:mangrove_chest_boat"
+    "minecraft:mangrove_chest_boat",
+    "voidscape:corrupted_pawn"
   ],
   "disableF3": false,
   "skipEntityCulling": false,
-  "skipBlockEntityCulling": false
+  "skipBlockEntityCulling": false,
+  "blockEntityFrustumCulling": true,
+  "forceDisplayCulling": false
 }
