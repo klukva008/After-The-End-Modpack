@@ -1,2 +1,2 @@
 # After-The-End-Modpack
-Development of After The End modpack from ATEteam
+Development of After The End modpack
