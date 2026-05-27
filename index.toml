@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "c5150437012d9eeb67ebe6c088832a6bb8311d69bd984a2c70956f2212a80110"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -375,6 +379,10 @@ hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 [[files]]
 file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "icon.png"
+hash = "08fcc18eb1ddbafebf6644f78fb8bc0ba62b905892e6a25277e1263f06cb568b"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
