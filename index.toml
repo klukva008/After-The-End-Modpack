@@ -470,6 +470,16 @@ hash = "a905d039b69045112c92377f8606cc5c54d99d5c93f6e195821d2536a5329ec8"
 metafile = true
 
 [[files]]
+file = "mods/drippy-early-loading-module.pw.toml"
+hash = "21f66e4e9771f9234c024bf5bcbd011f86c00cb78f36425a7218a0aec2049edd"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "eea753771cfbd43beb266fefdb1953f718f6aee6c78f10384c8db7150bb37d84"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "381a26678e6812b162d9524c4e1a5a952d70ec9ababae81e09bba1ef21b61cdc"
 metafile = true
@@ -482,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4c8454a265574253ae608448e14a1acf138b364cced8245c72e9c4b68fb52207"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
 metafile = true
 
 [[files]]
@@ -555,6 +570,11 @@ hash = "a7141766827eb8230b2cb9a9fda07b9fc863fa1cf6612b9b30fef4d40ade5a19"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "90ddefcf8c4a77e108d4465c7dc1928e3305cde39bce388b526f404d6cd52d37"
 metafile = true
@@ -572,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
