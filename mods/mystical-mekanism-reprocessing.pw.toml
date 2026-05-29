@@ -1,0 +1,13 @@
+name = "Mystical Mekanism Reprocessing"
+filename = "mysticalmekanismreprocessing-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52b57eb11531c34d67a23aa20820570b28c1e50b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7315674
+project-id = 1401736
