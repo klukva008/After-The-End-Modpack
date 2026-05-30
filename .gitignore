@@ -1,0 +1,13 @@
+# Файлы запуска Minecraft
+.minecraft/
+saves/
+logs/
+crash-reports/
+usernamecache.json
+usercache.json
+webcache/
+local/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
